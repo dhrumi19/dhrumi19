@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
-🎓 M.Sc. IT Student @ SKIPS University  📊 Interested in Data Analysis & Python Developer 
+## 🚀 About Me 🎓 M.Sc. IT Student @ SKIPS University  📊 Interested in Data Analysis & Python Developer 
 💡 Strong foundation in Python, SQL & basic ML  🌱 Currently learning: Power BI & Advanced Data Analytics  
 💼 Completed Python and Django Developer Internship  🎯 Goal: Data Analyst @ Top MNC  📍 Ahmedabad, India  
 
