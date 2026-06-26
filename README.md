@@ -74,3 +74,7 @@ CSS           ███████████ 30%
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhrumi19&theme=radical)
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrumi19&theme=react-dark" />
+</p>
