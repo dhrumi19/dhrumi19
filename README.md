@@ -77,7 +77,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhrumi19&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </p>
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 📊 Diwali Sales Data Analysis Web App
 - Django-based platform for data cleaning, EDA, and basic machine learning  
