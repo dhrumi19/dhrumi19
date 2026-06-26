@@ -60,67 +60,10 @@
 
 
 ## 📊 GitHub Stats
-  <div class="github-container">
+## 📊 GitHub Stats
 
-    <!-- LEFT SIDE -->
-    <div class="left-side">
+![Stats](https://github-readme-stats.vercel.app/api?username=dhrumi19&show_icons=true&theme=radical)
 
-      <!-- Stats Card -->
-      <div class="card stats-card">
-        <h3>dhrumi19's GitHub Stats</h3>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhrumi19&theme=radical)
 
-        <p>⭐ Total Stars Earned: <span>0</span></p>
-        <p>🕒 Total Commits (last year): <span>42</span></p>
-        <p>🔀 Total PRs: <span>0</span></p>
-        <p>❗ Total Issues: <span>0</span></p>
-        <p>📌 Contributed to: <span>0</span></p>
-
-        <div class="grade-circle">C</div>
-      </div>
-
-      <!-- Languages -->
-      <div class="card lang-card">
-        <h3>Most Used Languages</h3>
-
-        <div class="bar"></div>
-
-        <div class="lang-list">
-          <span>🐍 Python</span>
-          <span class="java">☕ Java</span>
-          <span class="ps">💻 PowerShell</span>
-          <span>🗄 SQL</span>
-          <span>🌐 HTML</span>
-          <span>🎨 CSS</span>
-        </div>
-
-      </div>
-
-    </div>
-
-    <!-- RIGHT SIDE -->
-    <div class="right-side card streak-card">
-
-      <div class="stat">
-        <h1>71</h1>
-        <p>Total Contributions</p>
-      </div>
-
-      <div class="divider"></div>
-
-      <div class="stat center">
-        <div class="circle">1</div>
-        <p>Current Streak</p>
-      </div>
-
-      <div class="divider"></div>
-
-      <div class="stat">
-        <h1>2</h1>
-        <p>Longest Streak</p>
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumi19&layout=compact&theme=radical)
