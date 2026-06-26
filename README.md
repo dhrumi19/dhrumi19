@@ -7,11 +7,10 @@
 💡 Strong foundation in Python, SQL & basic ML  🌱 Currently learning: Power BI & Advanced Data Analytics  
 💼 Completed Python and Django Developer Internship  🎯 Goal: Data Analyst @ Top MNC  📍 Ahmedabad, India  
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
 
 <!-- Languages -->
 
