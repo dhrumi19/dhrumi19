@@ -75,3 +75,43 @@ p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Co
 👀 Profile Views
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhrumi19&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </p>
+
+## 📌 Featured Projects
+
+### 📊 Diwali Sales Data Analysis Web App
+- Django-based platform for data cleaning, EDA, and basic machine learning  
+- Features: CSV Upload, Data Visualization, Statistical Insights  
+- Tech: Python, Pandas, Matplotlib, Seaborn, Django  
+
+### ✈️ Dreamland Destination
+- Travel booking platform with destination browsing and booking management  
+- Features: User Booking System, Admin Panel, Package Management  
+- Tech: Django, HTML, CSS, Bootstrap, SQLite  
+
+### 🎉 Eventrix – Event Management System
+- Web-based system for exploring, booking, and managing events  
+- Features: Event Booking, Admin Control, Email Notifications  
+- Tech: Django, Python, HTML, CSS, SQLite  
+
+### 🔐 Licensify – License Management System
+- Desktop application for managing software licenses securely  
+- Features: Admin/User Dashboard, License Tracking, Secure Storage  
+- Tech: JavaFX, Java, MySQL  
+
+### 🏦 Bank Management System
+- Desktop banking system for managing customer accounts and transactions  
+- Features: Deposit, Withdrawal, Account Management, File Handling  
+- Tech: Core Java, Java Swing, File System
+
+## 🎯 Current Focus
+- 📊 Power BI Dashboards  
+- 🗄️ Advanced SQL  
+- 🐍 Python for Data Analysis  
+- 🤖 Machine Learning Basics
+
+🔗 **Portfolio:** https://dhrumishah25.netlify.app/
+
+## 💡 Quote
+✨ *Turning Data Into Meaningful Insights.*
+
+⭐ If you like my work, consider following my profile!
