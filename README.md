@@ -65,14 +65,12 @@
 
 ## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-60%25-ff6f00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-50%25-4e73df?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-45%25-6f42c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerShell-40%25-1f77b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-35%25-ff5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-30%25-17a2b8?style=for-the-badge"/>
-</p>
+Python        ████████████████████████ 60%  
+SQL           ████████████████████ 50%  
+Java          █████████████████ 45%  
+PowerShell    ███████████████ 40%  
+HTML          █████████████ 35%  
+CSS           ███████████ 30%  
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhrumi19&theme=radical)
 
