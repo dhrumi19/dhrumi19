@@ -42,10 +42,7 @@
 </a>
 
 <a href="mailto:dhrumishah74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-       style="margin:5px; transition:0.3s;"
-       onmouseover="this.style.transform='scale(1.1)'"
-       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
