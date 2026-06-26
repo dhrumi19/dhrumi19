@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrumi Shah</h1>
 <h3 align="center">Data Analyst | Python Developer | Full Stack Development | </h3>
 
+p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Open+to+Job" /> </p>
 
 ## 🚀 About Me
 🎓 M.Sc. IT Student @ SKIPS University  📊 Interested in Data Analysis & Python Developer 
@@ -61,20 +62,16 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhrumi19&show_icons=true&theme=radical)
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhrumi19&show_icons=true&theme=tokyonight"/>
 
-## 📊 Most Used Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumi19&layout=compact&theme=tokyonight"/> </p>
 
-Python        ████████████████████████ 60%  
-SQL           ████████████████████ 50%  
-Java          █████████████████ 45%  
-PowerShell    ███████████████ 40%  
-HTML          █████████████ 35%  
-CSS           ███████████ 30%  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhrumi19&theme=radical)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrumi19&theme=tokyonight"/> </p>
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrumi19&theme=react-dark" />
-</p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrumi19&theme=tokyo-night"/> </p>
+
+👀 Profile Views
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhrumi19&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/> </p>
