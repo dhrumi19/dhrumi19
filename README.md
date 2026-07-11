@@ -104,6 +104,13 @@
 - Features: Deposit, Withdrawal, Account Management, File Handling  
 - Tech: Core Java, Java Swing, File System
 
+### 🔮 Project FORESIGHT — AI-Powered Retail Sales Intelligence Platform
+Enterprise-level analytics dashboard for retail decision-making
+Features: Revenue Analysis, AI Insights, Pareto (80/20) Analysis, Region-wise Performance
+Tech: Python, Pandas, NumPy, Scikit-learn, Plotly, Streamlit
+🌐 Live Demo is also provided
+
+
 ## 🎯 Current Focus
 - 📊 Power BI Dashboards  
 - 🗄️ Advanced SQL  
